@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I do competitive programming sometimes.
+## Math Enjoyer.
 
 - AI Engineering @IUG
 - Active Problemsetter for competitive programming platforms
